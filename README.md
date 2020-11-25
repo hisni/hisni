@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Hisni Mohammed, a Computer Engineering Undergraduate 🤓 from University of Peradeniya.
+### Hi there 👋, I'm Hisni Mohammed, a Computer Engineering Undergraduate from University of Peradeniya.
 
 <!--
 **hisni/hisni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
